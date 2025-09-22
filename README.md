@@ -1,2 +1,2 @@
 # Demo10087
-This is demo for a colleger who called KUKI
+This is demo made by a colleger who called KUKI
